@@ -1,0 +1,14 @@
+# Entornos virtuales y Python
+venv/
+__pycache__/
+*.pyc
+
+# Expo y React Native
+node_modules/
+.expo/
+dist/
+build/
+
+# Configuración local
+.env
+.DS_Store
